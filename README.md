@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I`m Franco Mafferra👋
+I'm Franco Mafferra from Argentina. I started to learn web development. It took me by surprise to realize that this was my passion. I'm currently focused on full stack web development at Henry's bootcamp.
+
+ProgrammingLanguage: Typescript, JavaScript.
+FrontEnd: Js: ["React", "Redux", "Vue"],
+BackEnd:Js: ["Node", "Express"],
+Databases: ["PostgreSQL", "Mongo"],
+
+- 📫 How to reach me: francomafferra38@gmail.com
 
 <!--
 **FrancoMafferra/FrancoMafferra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
